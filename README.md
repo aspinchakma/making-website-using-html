@@ -2,7 +2,7 @@
 
 ---
 
-Visit Demo website [TechCon2026](https://simplewebsiteusinghtml.netlify.app/) for improving your HTML basics.
+Visit Demo website [TechCon2026](https://simplewebsiteforlearninghtml.netlify.app/) for improving your HTML basics.
 
 ### Which tags are used
 
