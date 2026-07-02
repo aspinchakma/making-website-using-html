@@ -7,4 +7,4 @@ Visit Demo website [TechCon2026](https://simplewebsiteforlearninghtml.netlify.ap
 ### Which tags are used
 
 **header**, **footer**, **section**, **a**, **img**, **table**, **form**, **input**, **hr**, **h1, h2, h3**
-**nav**, **li**, **ul**, **tr**, **td** and etc.
+**nav**, **li**, **ul**, **tr**, **td**, **center**, **label**, and etc.
